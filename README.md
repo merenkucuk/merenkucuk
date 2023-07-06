@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
-<h3 align="center">A passionate software engineer, currently living in Ankara, Turkey</h3>
+<h3 align="center">A passionate software engineer, currently living in Ankara, Turkey <img src="https://cdn-icons-png.flaticon.com/512/5111/5111656.png" width="18"/> </h3>
 
 - 🌱 I’m currently learning **React, Spring, React Native**
 
